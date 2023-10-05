@@ -1,0 +1,15 @@
+C:\Users\2023102020029\source\repos\Giory\Giory\bin\Debug\net6.0\Giory.exe
+C:\Users\2023102020029\source\repos\Giory\Giory\bin\Debug\net6.0\Giory.deps.json
+C:\Users\2023102020029\source\repos\Giory\Giory\bin\Debug\net6.0\Giory.runtimeconfig.json
+C:\Users\2023102020029\source\repos\Giory\Giory\bin\Debug\net6.0\Giory.dll
+C:\Users\2023102020029\source\repos\Giory\Giory\bin\Debug\net6.0\Giory.pdb
+C:\Users\2023102020029\source\repos\Giory\Giory\obj\Debug\net6.0\Giory.csproj.AssemblyReference.cache
+C:\Users\2023102020029\source\repos\Giory\Giory\obj\Debug\net6.0\Giory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102020029\source\repos\Giory\Giory\obj\Debug\net6.0\Giory.AssemblyInfoInputs.cache
+C:\Users\2023102020029\source\repos\Giory\Giory\obj\Debug\net6.0\Giory.AssemblyInfo.cs
+C:\Users\2023102020029\source\repos\Giory\Giory\obj\Debug\net6.0\Giory.csproj.CoreCompileInputs.cache
+C:\Users\2023102020029\source\repos\Giory\Giory\obj\Debug\net6.0\Giory.dll
+C:\Users\2023102020029\source\repos\Giory\Giory\obj\Debug\net6.0\refint\Giory.dll
+C:\Users\2023102020029\source\repos\Giory\Giory\obj\Debug\net6.0\Giory.pdb
+C:\Users\2023102020029\source\repos\Giory\Giory\obj\Debug\net6.0\Giory.genruntimeconfig.cache
+C:\Users\2023102020029\source\repos\Giory\Giory\obj\Debug\net6.0\ref\Giory.dll
