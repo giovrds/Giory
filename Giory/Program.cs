@@ -12,6 +12,15 @@ class github
 
         Console.WriteLine($"\nA soma deste dois número equivale a {num1 + num2}");
 
+        if (num2 > num1)
+        {
+            Console.WriteLine($"\nO numero {num2} é maior");
+        }
+        else
+        {
+            Console.WriteLine($"\nO numero {num1} é maior");
+        }
+
         Console.ReadKey();
 
     }
